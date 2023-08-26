@@ -1,1 +1,1 @@
-message
+git is awesome new line
